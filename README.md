@@ -3,6 +3,8 @@
 My name is Gabriel, and I'm currently studying programming. 
 
 Right now, i'm working on: Web Development (HTML, CSS and Javascript).
-I'm also building my portfolio. It should be available soon!
+
+Check out my portfolio!
+-> gabrielfgoliveira.github.io
 
 Thanks for your attention!
